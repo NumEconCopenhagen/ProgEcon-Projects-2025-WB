@@ -1,9 +1,7 @@
-# [Group name]
+# WB
 
 **Group members:**
-- A
-- B
-- C
+- William Bay (Tkc907)
 
 **This repository contains:***
 
